@@ -6,7 +6,7 @@
 
 <br>
 
-## Objetivo de Desenvolvimento Sustentável
+## Objetivos de Desenvolvimento Sustentável
 <p>
   <b>Vida terrestre</b>
 </p>
