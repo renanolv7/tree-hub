@@ -6,6 +6,13 @@
 
 <br>
 
+## Objetivo de Desenvolvimento Sustentável
+<p>
+  <b>Vida terrestre</b>
+</p>
+
+Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+
 ## Descrição do Projeto
 <p>
   A ideia principal do projeto é que, usuários possam fazer doações para o plantio de novas árvores afim de praticar o reflorestamento em áreas necessitadas.
