@@ -38,6 +38,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
  
 <br>
 
+Abaixo, segue link para acesso à organização do projeto pelo Trello <br>
+[Acesse aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
+
 <h2> Desenvolvido por Renan Oliveira e Paulo César </h2>
 
 
