@@ -21,7 +21,7 @@ Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossist
 ## Pontos principais do projeto
   - Cada doação feita pelo usuário é uma árvore plantada
   - O plantío será realizado por ONG's
-  - O usuário poderá escolher em qual localização será feito o plantío (ESTADO, CIDADE ou até mesmo PAÍS)
+  - O usuário poderá escolher em qual localização será feito o plantío (ESTADO e CIDADE)
   - O usuário poderá dar um nome para sua árvore plantada
   - O usuario poderá acompanhar o crescimento desta árvore e outras informações 
 
