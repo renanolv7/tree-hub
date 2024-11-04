@@ -45,6 +45,10 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 [Acesse aqui](https://pt.semrush.com/persona/share/g9pP2i8C14kSn5S6fjJrp-7Qqa-KbrA3xw3NOI3e4hE/)
 
 
+### Atividade ebook mesa redonda - Competências de um Scrum
+[Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
+
+
 <h2> Desenvolvido por Renan Oliveira e Paulo César </h2>
 
 
