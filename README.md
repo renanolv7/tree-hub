@@ -38,6 +38,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
  
 <br>
 
+## Outros links
+
 ### Link para acesso à organização do projeto pelo Trello <br>
 [Acesso ao trello aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
 
