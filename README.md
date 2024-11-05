@@ -1,7 +1,7 @@
 <h1 align="center"> Tree Hub 🌳 </h1>
 
 <p align="center">
-  <b> PROJETO INTERDISCIPLINAR </b>
+  <b> PROJETO INTERDISCIPLINAR I </b>
 </p>
 
 <br>
@@ -39,17 +39,18 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 <br>
 
 ### Link para acesso à organização do projeto pelo Trello <br>
-[Acesse aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
+[Acesso ao trello aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
 
-### Link para a persona
-[Acesse aqui](https://pt.semrush.com/persona/share/g9pP2i8C14kSn5S6fjJrp-7Qqa-KbrA3xw3NOI3e4hE/)
+### Link para persona
+[Acesso a persona aqui](https://pt.semrush.com/persona/share/g9pP2i8C14kSn5S6fjJrp-7Qqa-KbrA3xw3NOI3e4hE/)
 
 
 ### Atividade ebook mesa redonda - Competências de um Scrum
 [Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
 
+<br>
 
-<h2> Desenvolvido por Renan Oliveira e Paulo César </h2>
+<h2 align="center"> Desenvolvido por Renan Oliveira e Paulo César </h2>
 
 
 
