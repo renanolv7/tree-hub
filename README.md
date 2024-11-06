@@ -34,7 +34,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - CSS (Sass) e possibilidade de algum framework CSS (Bootstrap, Tailwind)
 - JavaScript 
 - PHP para back-end
-- Figma
+- Quant UX
  
 <br>
 
