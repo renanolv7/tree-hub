@@ -52,9 +52,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ### Atividade ebook mesa redonda - Competências de um Scrum
 [Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
 
-### Trabalhos correlatos
-[Trabalhos correlatos](https://github.com/user-attachments/files/17670353/Projeto.Interdisciplinar.I.-.Trabalhos.Correlatos.pdf)
-
 ### Formulário de pesquisa
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
 
