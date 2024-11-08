@@ -43,9 +43,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ### Link para acesso à organização do projeto pelo Trello <br>
 [Acesso ao trello aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
 
-### Link para persona
-[Acesso a persona aqui](https://pt.semrush.com/persona/share/g9pP2i8C14kSn5S6fjJrp-7Qqa-KbrA3xw3NOI3e4hE/)
-
 ### Link para acesso a jornada do usuario e features <br>
 [Acesso ao quadro]([https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar](https://miro.com/welcomeonboard/eHFiMi9WcXNjejF2Y09jaUpucDlpVzkwT2NuOHA0bGpFSFZFNDZWU0FDUlVFc05QUzNKTmFaRXVuT01rbWROd3NPSktDVFNxbVNSa2FWcEdxS0JzSC9yMGhxN2VYV0l6TFl2UVJDMWJHRm04cmd1aUlhRGZWMmw0MTIvM2loejIhZQ==?share_link_id=6088719490))
 
