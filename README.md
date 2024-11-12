@@ -60,7 +60,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## Contato 📞
 Para maiores informações, entre em contato com:
-- **Renan Oliveira** - 20230014695@estudantes.ifpr.edu.br ou (41)988882310
+- **Renan Oliveira** - 20230014695@estudantes.ifpr.edu.br ou [(41)988882310](https://wa.me/41988882310)
 - **Paulo Cesar** - 
 
 ---
