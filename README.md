@@ -53,6 +53,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ### Atividade ebook mesa redonda - Competências de um Scrum 📘
 [Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
 
+[Atividade - Paulo Cesar](https://docs.google.com/document/d/1wQ0pT6Hes3_M5PkBXx_slD-k-Nk-EQLgiEO0YicBfuE/edit?usp=sharing)
+
 ### Formulário de pesquisa 📊
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
 
