@@ -4,8 +4,9 @@
   <b> PROJETO INTERDISCIPLINAR I </b>
 </p>
 
-## Projeto em andamento ✅
+<h3> Projeto em andamento ✅ </h3>
 
+---
 
 ## Identificação 🪪
 ### Membros
