@@ -28,6 +28,15 @@ Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossist
   A ideia principal do projeto é que, usuários possam fazer doações para o plantio de novas árvores afim de praticar o reflorestamento em áreas necessitadas.
 </p>
 
+## Dores ❗
+[Notícia sobre céu com fumaça em Curitiba](https://g1.globo.com/pr/parana/noticia/2024/09/19/nuvem-de-fumaca-de-queimadas-volta-encobrir-o-ceu-do-parana-veja-previsao.ghtml)
+<br>
+[Notícia sobre poluição em Curitiba](https://www.tribunapr.com.br/noticias/curitiba-regiao/poluicao-extrema-em-curitiba-nivel-aumenta-10-vezes-e-acende-alerta/)
+<br>
+[Notícia sobre céu com fumaça em Curitiba](https://www.tribunapr.com.br/noticias/curitiba-regiao/fumaca-continua-no-ar-de-curitiba-mesmo-com-chuva/)
+
+
+
 ## Pontos principais do projeto 🌟
   - Cada doação feita pelo usuário é uma árvore plantada
   - O plantio será realizado por ONG's
