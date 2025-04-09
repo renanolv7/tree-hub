@@ -71,8 +71,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ### Formulário de pesquisa 📊
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
 
-### Jira 📊
+### Jira 
 [Link para o Jira](https://treehub321.atlassian.net/)
+
 ---
 
 ## Próximos passos 
