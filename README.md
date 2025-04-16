@@ -1,7 +1,7 @@
 <h1 align="center"> Tree Hub 🌳 </h1>
 
 <p align="center">
-  <b> PROJETO INTERDISCIPLINAR I </b>
+  <b> PROJETO INTERDISCIPLINAR - GTI</b>
 </p>
 
 <h3> Projeto em andamento ✅ </h3>
