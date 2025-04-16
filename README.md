@@ -60,9 +60,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## Outros links 📎
 
-### Link para acesso à organização do projeto pelo Trello 📌 <br>
-[Acesso ao trello aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
-
 ### Atividade ebook mesa redonda - Competências de um Scrum 📘
 [Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
 
@@ -70,6 +67,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ### Formulário de pesquisa 📊
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
+
+### Link para acesso à organização do projeto pelo Trello 📌 <br>
+[Acesso ao trello aqui](https://trello.com/invite/b/6716e0c6a71cb474d3abfd7f/ATTI198fd7206b1856acd926f9d0bc4812bb0E9FFD67/three-hub-projeto-interdisciplinar)
 
 ### Jira 
 [Link para o Jira](https://treehub321.atlassian.net/)
