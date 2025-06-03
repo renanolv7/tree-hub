@@ -68,7 +68,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ### Jira 
 [Link para o Jira](https://treehub321.atlassian.net/)
 
-### Repositório Github Produção
+### Repositório Github - Produção
 [Link para o repositório do projeto em produção](https://github.com/renanolv7/project_treehub)
 
 ---
