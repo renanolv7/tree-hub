@@ -57,7 +57,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
  
 ---
 
-## Outros links 📎
+## Links 📎
 
 ### Formulário de pesquisa 📊
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
