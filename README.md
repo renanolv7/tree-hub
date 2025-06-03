@@ -37,7 +37,6 @@ Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossist
 [Notícia sobre céu com fumaça em Curitiba](https://www.tribunapr.com.br/noticias/curitiba-regiao/fumaca-continua-no-ar-de-curitiba-mesmo-com-chuva/)
 
 
-
 ## Pontos principais do projeto 🌟
   - Cada doação feita pelo usuário é uma árvore plantada
   - O plantio será realizado por ONG's
@@ -51,7 +50,7 @@ Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossist
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - HTML
-- CSS (Sass) e possibilidade de algum framework CSS (Bootstrap, Tailwind)
+- CSS (Sass) e possibilidade de algum framework CSS (Tailwind)
 - JavaScript 
 - PHP para back-end
 - Quant UX
@@ -59,11 +58,6 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ---
 
 ## Outros links 📎
-
-### Atividade ebook mesa redonda - Competências de um Scrum 📘
-[Atividade - Renan Oliveira](https://github.com/userattachments/files/17624683/Mesa.Redonda_.ebook.As.6.competencias.do.Scrum.Master.de.Sucesso.pdf)
-
-[Atividade - Paulo Cesar](https://docs.google.com/document/d/1wQ0pT6Hes3_M5PkBXx_slD-k-Nk-EQLgiEO0YicBfuE/edit?usp=sharing)
 
 ### Formulário de pesquisa 📊
 [Formulário - Tree Hub](https://forms.gle/euYNw7SvPGawAx5p6)
@@ -73,6 +67,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ### Jira 
 [Link para o Jira](https://treehub321.atlassian.net/)
+
+### Repositório Github Produção
+[Link para o repositório do projeto em produção](https://github.com/renanolv7/project_treehub)
 
 ---
 
