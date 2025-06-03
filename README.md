@@ -50,7 +50,7 @@ Tem como objetivo proteger, recuperar e promover o uso sustentável dos ecossist
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - HTML
-- CSS (Sass) e possibilidade de algum framework CSS (Tailwind)
+- CSS e possibilidade de algum framework CSS (Tailwind)
 - JavaScript 
 - PHP para back-end
 - Quant UX
